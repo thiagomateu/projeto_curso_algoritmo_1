@@ -1,4 +1,15 @@
+//
 
+/*
+fdfdsssdf
+fdssdf
+fdssdffd
+
+
+
+
+fsfsfaafafasf
+*/
 
 var nome, nota;
 nome = prompt("digite o seu nome")
